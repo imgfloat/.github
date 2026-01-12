@@ -15,3 +15,44 @@ Visit [imgfloat.kruhlmann.dev](https://imgfloat.kruhlmann.dev) to add your chann
 ## Moderators
 
 Visit [imgfloat.kruhlmann.dev](https://imgfloat.kruhlmann.dev) once your streamer has added you as a channel admin. From there you can upload images, place them on the canvas and animate them in real-time.
+
+# Supported file types
+
+## Images
+
+| FILE TYPE | MIME TYPE              |
+| --------- | ---------------------- |
+| PNG       | image/png              |
+| JPG       | image/jpeg             |
+| JPG       | image/jpg              |
+| GIF       | image/gif              |
+| WEBP      | image/webp             |
+| BMP       | image/bmp              |
+| TIFF      | image/tiff             |
+
+## Videos
+
+| FILE TYPE | MIME TYPE              |
+| --------- | ---------------------- |
+| MP4       | video/mp4              |
+| WEBM      | video/webm             |
+| MOV       | video/quicktime        |
+| MKV       | video/x-matroska       |
+
+## Audio
+
+| FILE TYPE | MIME TYPE              |
+| --------- | ---------------------- |
+| MP3       | audio/mpeg             |
+| MP3       | audio/mp3              |
+| WAV       | audio/wav              |
+| OGG       | audio/ogg              |
+| WEBM      | audio/webm             |
+| FLAC      | audio/flac             |
+
+## Custom script rendering
+
+| FILE TYPE | MIME TYPE              |
+| --------- | ---------------------- |
+| JS        | application/javascript |
+| JS        | text/javascript        |
